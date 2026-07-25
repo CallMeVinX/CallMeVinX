@@ -2,7 +2,7 @@
 
   <!-- Header Typing Banner -->
   <a href="https://github.com/CallMeVinX">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&width=500&lines=Hi+there!+%F0%9F%90%8B+I'm+Alvin;Full-Stack+%26+Mobile+Developer;Building+Impactful+Tech+Solutions;Welcome+to+my+GitHub+Profile!" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&width=500&lines=Hi+there!\+I'm+Alvin;Full-Stack+%26+Mobile+Developer;Building+Impactful+Tech+Solutions;Welcome+to+my+GitHub+Profile!" alt="Typing Banner" />
   </a>
 
   <p align="center">
@@ -20,7 +20,7 @@
 
 ### 🚀 About Me
 
-👋 Hello! I'm **Alvin** (**CallMeVinX**), a developer dedicated to crafting modern web applications, high-performance mobile apps, and robust backend systems. I love turning innovative ideas into real-world solutions that solve practical challenges.
+👋 Hello! I'm **Alvin**, a developer dedicated to crafting modern web applications, high-performance mobile apps, and robust backend systems. I love turning innovative ideas into real-world solutions that solve practical challenges.
 
 - 🔭 **Currently focused on**: Developing scalable full-stack applications & mobile solutions.
 - 💡 **Specialties**: Web & Mobile Development, Cloud Backends, IoT Systems.
@@ -147,18 +147,20 @@ Here are some of the key projects I've built and am actively working on:
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CallMeVinX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="CallMeVinX's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallMeVinX&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CallMeVinX&theme=tokyonight&hide_border=true" alt="CallMeVinX's Commit Streak" width="85%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CallMeVinX&theme=tokyonight&hide_border=true" alt="CallMeVinX's Streak" />
+  <!-- Activity Graph Card -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CallMeVinX&theme=tokyo-night&hide_border=true" alt="CallMeVinX's Activity Graph" width="100%" />
 </div>
+
 
 ---
 
