@@ -63,15 +63,16 @@ Here are some of the key projects I've built and am actively working on:
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🌊 Floovia (PKM-KC)</h3>
+      <h3 align="center">🌊 FLOOVIA (PKM-KC)</h3>
       <p align="center">
-        <b>Smart Flood Monitoring & Early Warning System</b>
+        <b>AI & IoT Flood Monitoring & Early Warning System (2025)</b>
       </p>
-      <p>A comprehensive system combining IoT sensors, cloud backend microservices, and a mobile application to deliver real-time flood monitoring and early warning alerts.</p>
+      <p>Real-time flood monitoring system utilizing ESP32 IoT sensors and TensorFlow AI models (75% prediction accuracy for flood recession). Funded by the competitive <b>PKM-KC grant (Kemendikbudristek RI)</b>.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Dart-Flutter-02569B?style=flat-square&logo=flutter" />
+        <img src="https://img.shields.io/badge/IoT-ESP32-000000?style=flat-square&logo=espressif" />
+        <img src="https://img.shields.io/badge/AI-TensorFlow-FF6F00?style=flat-square&logo=tensorflow" />
         <img src="https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square&logo=python" />
-        <img src="https://img.shields.io/badge/Google_Cloud-Functions-4285F4?style=flat-square&logo=googlecloud" />
+        <img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=flat-square&logo=flutter" />
       </p>
       <p align="center">
         🔗 <a href="https://github.com/CallMeVinX/PKMKC_FLOOVIA_Mobile_Frontend">Mobile App Repo</a> | 
@@ -79,15 +80,16 @@ Here are some of the key projects I've built and am actively working on:
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🌊 SeaPedia</h3>
+      <h3 align="center">🛒 Seapedia</h3>
       <p align="center">
-        <b>Marine Ecosystem & Information Platform</b>
+        <b>Full-Stack E-Commerce / Marketplace Platform (2026)</b>
       </p>
-      <p>An interactive web platform and API service dedicated to marine species cataloging, ocean data visualization, and marine conservation resources.</p>
+      <p>End-to-end full-stack marketplace platform (Solo Project) featuring <i>multi-role</i> authorization (Admin, Buyer, Seller, Driver), Digital Wallet, Order Tracking, & promo voucher management.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-Next.js-3178C6?style=flat-square&logo=typescript" />
-        <img src="https://img.shields.io/badge/Python-FastAPI-009688?style=flat-square&logo=fastapi" />
-        <img src="https://img.shields.io/badge/Vercel-Deployed-000000?style=flat-square&logo=vercel" />
+        <img src="https://img.shields.io/badge/Next.js-App_Router-000000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" />
+        <img src="https://img.shields.io/badge/FastAPI-Python-009688?style=flat-square&logo=fastapi" />
+        <img src="https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=flat-square&logo=supabase" />
       </p>
       <p align="center">
         🔗 <a href="https://seapedia-frontend.vercel.app" target="_blank">Live Demo</a> | 
